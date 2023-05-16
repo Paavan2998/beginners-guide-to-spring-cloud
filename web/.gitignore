@@ -1,0 +1,10 @@
+/target/**
+/.mvn/**
+/mvnw.*
+/mvnw
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
